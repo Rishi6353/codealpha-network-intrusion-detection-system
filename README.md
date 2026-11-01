@@ -1,4 +1,7 @@
 # Network Intrusion Detection System (NIDS)
+## Dashboard Preview
+
+![NetGuard NIDS Dashboard](screenshots/dashboard.jpeg)
 
 A Python-based Network Intrusion Detection System built using Suricata and Flask. It collects network events from Suricata's EVE JSON logs and presents them through a real-time monitoring dashboard.
 
